@@ -61,7 +61,7 @@ void display(){
 
 int main (){
     input();
-    buulesortArray();
+    bubbleSortArray();
     display();
 
 }
